@@ -108,7 +108,7 @@ packages:
     source: hosted
     version: "1.8.2"
   plugin_platform_interface:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: plugin_platform_interface
       url: "https://pub.dartlang.org"
@@ -183,7 +183,7 @@ packages:
     source: hosted
     version: "2.3.8"
   video_player_platform_interface:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: video_player_platform_interface
       url: "https://pub.dartlang.org"
