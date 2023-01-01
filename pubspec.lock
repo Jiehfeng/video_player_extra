@@ -108,7 +108,7 @@ packages:
     source: hosted
     version: "1.8.2"
   plugin_platform_interface:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: plugin_platform_interface
       url: "https://pub.dartlang.org"
@@ -171,30 +171,38 @@ packages:
   video_player_android:
     dependency: "direct main"
     description:
-      name: video_player_android
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: e7f0624e237f3b8f04029805381796818724dc30
+      url: "https://github.com/Jiehfeng/video_player_android.git"
+    source: git
     version: "2.3.10"
   video_player_avfoundation:
     dependency: "direct main"
     description:
-      name: video_player_avfoundation
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: c0d4ec488bad7eface71a189af58ac113ce2f6f0
+      url: "https://github.com/Jiehfeng/video_player_avfoundation.git"
+    source: git
     version: "2.3.8"
   video_player_platform_interface:
-    dependency: transitive
+    dependency: "direct main"
     description:
-      name: video_player_platform_interface
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "459d30dd1c26c9f5dcb05daf254f295ce9179886"
+      url: "https://github.com/Jiehfeng/video_player_platform_interface.git"
+    source: git
     version: "6.0.1"
   video_player_web:
     dependency: "direct main"
     description:
-      name: video_player_web
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "32d0118acf24f93c8777134c7b31df5a6a9d20da"
+      url: "https://github.com/Jiehfeng/video_player_web.git"
+    source: git
     version: "2.0.13"
 sdks:
   dart: ">=2.17.0-0 <3.0.0"

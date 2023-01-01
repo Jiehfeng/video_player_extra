@@ -9,11 +9,11 @@ import 'dart:math' as math;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'platform_interface_modified.dart';
+import 'package:video_player_platform_interface/video_player_platform_interface.dart';
 
 import 'src/closed_caption_file.dart';
 
-export 'platform_interface_modified.dart' show DurationRange, DataSourceType, VideoFormat, VideoPlayerOptions, MediaFormat;
+export 'package:video_player_platform_interface/video_player_platform_interface.dart' show DurationRange, DataSourceType, VideoFormat, VideoPlayerOptions, MediaFormat;
 
 export 'src/closed_caption_file.dart';
 

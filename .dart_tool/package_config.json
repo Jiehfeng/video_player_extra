@@ -153,25 +153,25 @@
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.10",
+      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/git/video_player_android-e7f0624e237f3b8f04029805381796818724dc30/",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "video_player_avfoundation",
-      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_avfoundation-2.3.8",
+      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/git/video_player_avfoundation-c0d4ec488bad7eface71a189af58ac113ce2f6f0/",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "video_player_platform_interface",
-      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-6.0.1",
+      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/git/video_player_platform_interface-459d30dd1c26c9f5dcb05daf254f295ce9179886/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "video_player_web",
-      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.13",
+      "rootUri": "file:///C:/Users/alain/Documents/flutter/.pub-cache/git/video_player_web-32d0118acf24f93c8777134c7b31df5a6a9d20da/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -182,7 +182,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2023-01-01T08:37:15.948606Z",
+  "generated": "2023-01-01T10:59:22.914604Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }
