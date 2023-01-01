@@ -5,6 +5,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
+import 'method_channel_video_player.dart';
 
 /// The interface that implementations of video_player must implement.
 ///
@@ -19,7 +20,7 @@ abstract class VideoPlayerPlatform extends PlatformInterface {
 
   static final Object _token = Object();
 
-  static VideoPlayerPlatform _instance = _PlaceholderImplementation();
+  static VideoPlayerPlatform _instance = MethodChannelVideoPlayer();
 
   /// The instance of [VideoPlayerPlatform] to use.
   ///
